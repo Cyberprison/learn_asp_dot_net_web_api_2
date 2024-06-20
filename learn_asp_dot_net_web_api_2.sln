@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.34829.251
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "learn_asp_dot_net_web_api_2", "learn_asp_dot_net_web_api_2\learn_asp_dot_net_web_api_2.csproj", "{7F234BBA-F4E1-4EE8-A54A-CB591A8FF8BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F234BBA-F4E1-4EE8-A54A-CB591A8FF8BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F234BBA-F4E1-4EE8-A54A-CB591A8FF8BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F234BBA-F4E1-4EE8-A54A-CB591A8FF8BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F234BBA-F4E1-4EE8-A54A-CB591A8FF8BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21D003E3-7957-4A44-94BF-0AC315C6D730}
+	EndGlobalSection
+EndGlobal
